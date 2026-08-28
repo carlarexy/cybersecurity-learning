@@ -6,6 +6,7 @@ This repository documents my ongoing development in cybersecurity through struct
 
 My foundation comes from a Level 6 Diploma in Cyber Security, practical IT support and networking experience, and a three-month IT attachment. I am now strengthening that foundation through continued hands-on learning and deeper exploration of cybersecurity, networking, security operations, and defensive security.
 
+
 🎯 Current Focus
 
 My current learning focuses on building a strong cybersecurity foundation while developing practical skills relevant to a Junior Cybersecurity Analyst / SOC Analyst role.
@@ -23,7 +24,9 @@ Defensive security
 Security tools and technologies
 Practical cybersecurity labs
 
+
 📚 Learning Platforms
+
 1. Cisco Networking Academy
 
 I am currently using Cisco Networking Academy to refresh and deepen my networking and cybersecurity knowledge.
@@ -44,6 +47,7 @@ My learning began with the Junior Security Analyst Intro room, where I explored 
 
 
 🎓 Background
+
 Level 6 Diploma in Cyber Security
 
 I completed a Level 6 Diploma in Cyber Security, where I developed foundational knowledge across cybersecurity and IT.
@@ -58,6 +62,7 @@ Computer maintenance
 Troubleshooting
 IT support
 Technical systems
+
 
 💼 Practical IT Experience
 
@@ -74,6 +79,7 @@ Assisting users with technical issues
 Working as part of an IT support team
 
 This experience gave me a practical technical foundation that I am now building upon through focused cybersecurity training.
+
 
 ## 🧠 Skills Currently Developing
 
