@@ -75,22 +75,26 @@ Working as part of an IT support team
 
 This experience gave me a practical technical foundation that I am now building upon through focused cybersecurity training.
 
-🧠 Skills Currently Developing
-Area	                                 Focus
-Cybersecurity	           Security fundamentals, threats and vulnerabilities
-Networking	             Network architecture, protocols and troubleshooting
-Network Security	       Defensive networking and security concepts
-SOC Operations	         Monitoring, alert analysis and escalation
-Threat Detection	       Identifying suspicious activity and potential threats
-Incident Response	       Initial investigation and response concepts
-Security Monitoring	     Logs, alerts and security events
-IT Support	             Troubleshooting and technical problem solving
+## 🧠 Skills Currently Developing
 
-📈 Learning Progress
-Platform	                       Course / Path	                              Status
-Cisco Networking Academy	    Introduction to Cybersecurity	                Completed
-Cisco Networking Academy	    Junior Cybersecurity Analyst Career Path	   In Progress
-TryHackMe	                    Junior Security Analyst Intro	                Completed
-TryHackMe	                    Additional cybersecurity training	             Ongoing
+| Area | Focus |
+|---|---|
+| Cybersecurity | Security fundamentals, threats and vulnerabilities |
+| Networking | Network architecture, protocols and troubleshooting |
+| Network Security | Defensive networking and security concepts |
+| SOC Operations | Monitoring, alert analysis and escalation |
+| Threat Detection | Identifying suspicious activity and potential threats |
+| Incident Response | Initial investigation and response concepts |
+| Security Monitoring | Logs, alerts and security events |
+| IT Support | Troubleshooting and technical problem solving |
+
+## 📈 Learning Progress
+
+| Platform | Course / Path | Status |
+|---|---|---|
+| Cisco Networking Academy | Introduction to Cybersecurity | Completed |
+| Cisco Networking Academy | Junior Cybersecurity Analyst Career Path | In Progress |
+| TryHackMe | Junior Security Analyst Intro | Completed |
+| TryHackMe | Additional cybersecurity training | Ongoing |
 
 Status will be updated as I progress through each learning path.
