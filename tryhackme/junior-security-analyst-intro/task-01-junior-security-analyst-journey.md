@@ -4,7 +4,7 @@
 
 This task introduced me to the role of a **Junior Security Analyst** and gave me an overview of what the day-to-day work of an entry-level cybersecurity analyst can look like.
 
-The task placed the Junior Security Analyst in the context of a **Security Operations Center (SOC)**, where analysts help protect an organization by monitoring and investigating security alerts, working with colleagues and other teams, and continuously learning about new attacks and defensive techniques. :contentReference[oaicite:1]{index=1}
+The task placed the Junior Security Analyst in the context of a **Security Operations Center (SOC)**, where analysts help protect an organization by monitoring and investigating security alerts, working with colleagues and other teams, and continuously learning about new attacks and defensive techniques.
 
 This was a useful introduction because it helped me connect the cybersecurity knowledge I have already gained through my diploma and current training with a practical cybersecurity career path.
 
@@ -14,7 +14,7 @@ This was a useful introduction because it helped me connect the cybersecurity kn
 
 A **Junior Security Analyst** is an entry-level cybersecurity professional who helps protect an organization's systems, networks, and data.
 
-The role is commonly associated with **SOC Level 1 (L1)** responsibilities. A Junior Security Analyst is often one of the first people reviewing security alerts and investigating activity that may indicate a cyber threat. :contentReference[oaicite:2]{index=2}
+The role is commonly associated with **SOC Level 1 (L1)** responsibilities. A Junior Security Analyst is often one of the first people reviewing security alerts and investigating activity that may indicate a cyber threat.
 
 In my understanding, the role is not simply about watching alerts appear on a dashboard. An analyst needs to examine the available information, understand what the alert may indicate, investigate suspicious activity, document findings, and know when an issue requires further assistance or escalation.
 
@@ -32,7 +32,7 @@ The analyst's role involves:
 - Working with other members of the SOC
 - Cooperating with other teams within the organization
 - Participating in security discussions and activities
-- Continuously learning about emerging attacks and defensive techniques :contentReference[oaicite:3]{index=3}
+- Continuously learning about emerging attacks and defensive techniques 
 
 This helped me understand that cybersecurity operations involve both **technical analysis and teamwork**.
 
@@ -50,7 +50,7 @@ According to the task, a Junior Security Analyst typically performs several acti
 | Cooperate with Other Teams | Working with colleagues and other departments to help keep the organization secure |
 | Continuous Learning | Keeping up with new attacks, vulnerabilities, defensive techniques, and security knowledge |
 
-The current TryHackMe task specifically highlights monitoring and investigating security alerts, participating in SOC brainstorms and workshops, cooperating with other teams, and continuously learning about attacks and defenses. :contentReference[oaicite:4]{index=4}
+The current TryHackMe task specifically highlights monitoring and investigating security alerts, participating in SOC brainstorms and workshops, cooperating with other teams, and continuously learning about attacks and defenses.
 
 ---
 
