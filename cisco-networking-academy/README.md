@@ -49,7 +49,7 @@ Cisco provides the structured foundation, while platforms such as **TryHackMe** 
 
 | Learning Area | Course / Path | Status |
 |---|---|---|
-| Cybersecurity Fundamentals | Introduction to Cybersecurity | In Progress / Completed |
+| Cybersecurity Fundamentals | Introduction to Cybersecurity | Completed |
 | Cybersecurity Career Development | Junior Cybersecurity Analyst Career Path | In Progress |
 | Networking | Networking fundamentals and related training | Ongoing |
 | Network Security | Security-focused networking concepts | Ongoing |
@@ -156,12 +156,12 @@ Where appropriate, documentation may include:
 
 | Area | Current Status |
 |---|---|
-| Cybersecurity Fundamentals | Ongoing |
+| Cybersecurity Fundamentals | Completed |
 | Networking Fundamentals | Ongoing |
 | Network Security | Ongoing |
 | Junior Cybersecurity Analyst Development | Ongoing |
-| Security Monitoring | Ongoing |
-| Defensive Security | Ongoing |
+| Security Monitoring | Building |
+| Defensive Security | Building |
 
 I will update this section as I complete courses, modules, labs, and career-path milestones.
 
