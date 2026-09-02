@@ -99,7 +99,7 @@ This combination is helping me move from a foundational understanding of cyberse
 
 | Learning Area | Platform | Status |
 |---|---|---|
-| Cybersecurity Fundamentals | Cisco Networking Academy | In Progress / Completed |
+| Cybersecurity Fundamentals | Cisco Networking Academy | In Progress |
 | Junior Cybersecurity Analyst Development | Cisco Networking Academy | In Progress |
 | Junior Security Analyst Introduction | TryHackMe | Completed |
 | SOC Fundamentals | TryHackMe | Ongoing |
