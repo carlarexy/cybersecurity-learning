@@ -4,32 +4,43 @@
 
 This folder documents my learning journey through the **Introduction to Cybersecurity** course on [Cisco Networking Academy](https://www.netacad.com/).
 
-I am using this course to refresh and strengthen my understanding of core cybersecurity concepts while building a stronger foundation for more advanced cybersecurity learning.
+I completed the full course and earned the **Cisco Networking Academy course completion certificate**, the **overall course badge**, and the **individual badges for each module**.
 
-Although I have already studied cybersecurity and networking through my **Level 6 Diploma in Cyber Security** and gained practical IT experience during my attachment, I am revisiting these fundamentals to strengthen my understanding and connect them to practical cybersecurity operations.
+The course strengthened my understanding of core cybersecurity concepts and provided a foundation for progressing into networking, security operations, and other areas of cybersecurity.
 
-This course is also part of my broader development toward a **Junior Cybersecurity Analyst** career path.
+Although I had already studied cybersecurity through my **Level 6 Diploma in Cyber Security** and gained practical IT experience during my attachment, I used this course as both a **refresher and an opportunity to deepen my understanding of fundamental cybersecurity concepts**.
+
+---
+
+## ✅ Course Completion
+
+| Item | Status |
+|---|---|
+| Introduction to Cybersecurity Course | ✅ Completed |
+| Course Completion Certificate | 🏆 Earned |
+| Overall Course Badge | 🏅 Earned |
+| Module Badges | 🏅 Earned |
 
 ---
 
 ## 🎯 Learning Objectives
 
-Through this course, I aim to:
+Through this course, I focused on strengthening my understanding of:
 
-- Strengthen my understanding of cybersecurity fundamentals
-- Understand the importance of cybersecurity in modern organizations
-- Learn about common cyber threats and attack methods
-- Understand vulnerabilities and how attackers exploit them
-- Strengthen my knowledge of data protection and privacy
-- Learn how organizations protect their systems and information
-- Understand the role of cybersecurity professionals
-- Identify areas that I need to develop further as I progress toward a Junior Cybersecurity Analyst role
+- Cybersecurity fundamentals
+- Common cyber threats and attacks
+- Vulnerabilities and exploits
+- Data protection and privacy
+- Organizational security
+- Security technologies and practices
+- Cybersecurity roles and career opportunities
+- The relationship between cybersecurity, networking, and organizational security
 
 ---
 
 ## 📚 Course Modules
 
-The course is documented through the following modules:
+The course covered the following five modules:
 
 | Module | Topic | Documentation |
 |---|---|---|
@@ -41,70 +52,80 @@ The course is documented through the following modules:
 
 ---
 
-## 🧠 Key Areas Covered
+## 🧠 Key Areas I Learned
 
 ### Cybersecurity Foundations
 
-This course introduced and reinforced the fundamentals of cybersecurity, including the importance of protecting information, systems, networks, and users from cyber threats.
+I strengthened my understanding of cybersecurity and why protecting digital systems, networks, information, and users is increasingly important.
 
-### Cyber Attacks, Concepts & Techniques
+I also explored the broader impact of cybercrime and the different types of information and systems that need to be protected.
 
-I explored different types of cyber threats, attack methods, vulnerabilities, and techniques that attackers can use to compromise systems.
+### Attacks, Concepts & Techniques
+
+I learned about different cyber threats, attack methods, vulnerabilities, and techniques used by attackers to compromise systems and information.
+
+This helped me better understand the relationship between:
+
+**Threats → Vulnerabilities → Exploitation → Impact**
 
 ### Data Protection & Privacy
 
-I learned about the importance of protecting personal and organizational data and the role of security practices in maintaining privacy and confidentiality.
+I learned about the importance of protecting personal and organizational information and the security practices used to reduce the risk of unauthorized access, exposure, or misuse.
 
 ### Protecting the Organization
 
-I was introduced to different technologies, practices, and security measures organizations can use to reduce cybersecurity risks and protect their environments.
+I explored how organizations use security technologies, processes, and policies to reduce cybersecurity risks and protect their systems and information.
 
 ### Cybersecurity Careers
 
-The course also introduced the broader cybersecurity profession, including career opportunities, the importance of continuous learning, and the skills needed to develop in the field.
+The course also introduced me to the wider cybersecurity profession and helped me better understand the range of career opportunities available within the field.
+
+This reinforced my interest in developing toward a **Junior Cybersecurity Analyst / SOC-focused career path**.
 
 ---
 
-## 🛡️ Core Cybersecurity Concepts
+## 🔐 Core Concepts Strengthened
 
-Some of the major concepts I am strengthening through this course include:
-
-| Concept | My Learning Focus |
+| Concept | What I Strengthened |
 |---|---|
 | Confidentiality | Understanding how sensitive information is protected from unauthorized access |
-| Integrity | Understanding how data can be protected from unauthorized modification |
-| Availability | Understanding how systems and information remain accessible when needed |
-| Threats | Understanding different types of potential cyber threats |
+| Integrity | Understanding how information can be protected from unauthorized modification |
+| Availability | Understanding the importance of keeping systems and information accessible when needed |
+| Threats | Recognizing different types of potential cyber threats |
 | Vulnerabilities | Understanding weaknesses that can be exploited by attackers |
-| Attacks | Understanding how attackers attempt to compromise systems and data |
-| Authentication | Understanding how users and systems are verified |
-| Data Protection | Understanding how sensitive information should be protected |
-| Network Security | Understanding how communication and network environments can be secured |
-| Organizational Security | Understanding how businesses protect systems, users, and information |
+| Attacks | Understanding common methods used to compromise systems and data |
+| Authentication | Understanding how identities are verified before access is granted |
+| Data Protection | Understanding the importance of protecting sensitive information |
+| Privacy | Understanding how personal information can be protected |
+| Network Security | Understanding the importance of securing networked environments |
+| Organizational Security | Understanding how organizations use people, processes, and technologies to manage security risks |
 
 ---
 
 ## 🔗 Connection to Networking
 
-One of the reasons I am revisiting cybersecurity fundamentals through Cisco is to strengthen the connection between **networking and cybersecurity**.
+One of my key takeaways from this course is the importance of **networking knowledge in cybersecurity**.
 
-My previous studies and practical experience gave me exposure to computer networking, troubleshooting, technical support, and network-related tasks.
+My previous studies and practical experience already gave me a foundation in computer networking and network security. Completing this cybersecurity course reinforced how closely networking and cybersecurity are connected.
 
-Revisiting networking and cybersecurity together helps me better understand how:
+Understanding how devices communicate, how data moves across networks, and how network services operate provides an important foundation for areas such as:
 
-**Devices → Networks → Services → Data → Security Controls → Threats**
+- Network security
+- Security monitoring
+- Threat detection
+- Incident investigation
+- SOC operations
+- Network traffic analysis
 
-are connected.
-
-A stronger networking foundation will also help me understand security monitoring, suspicious network activity, network attacks, and defensive technologies as I progress into more practical cybersecurity learning.
+This is one of the reasons I am continuing my Cisco learning journey with **Networking Basics**.
 
 ---
 
 ## 🎓 Connection to My Background
 
-I completed a **Level 6 Diploma in Cyber Security**, which gave me an academic foundation in cybersecurity and IT.
+I completed a **Level 6 Diploma in Cyber Security**, where I developed foundational knowledge in cybersecurity and IT.
 
-Areas of my previous learning included:
+My previous studies covered areas including:
 
 - Computer networking
 - Network security
@@ -114,111 +135,141 @@ Areas of my previous learning included:
 - Troubleshooting
 - IT support
 
-I also gained practical experience during my IT attachment, where I worked on technical support and troubleshooting activities and gained exposure to networking-related tasks, computer maintenance, Ethernet cable creation, and technical setups.
+I also gained practical IT experience during my attachment, including technical troubleshooting, computer maintenance, networking-related tasks, Ethernet cable creation, and technical support.
 
-Because of this background, I am approaching this course as both a **refresher and an opportunity to deepen my understanding** rather than learning cybersecurity from the beginning.
+Because of this background, I approached the Cisco Introduction to Cybersecurity course as a **structured refresher and deeper reinforcement of concepts I had previously encountered**.
+
+The course also helped me identify areas where I want to develop stronger practical skills.
 
 ---
 
-## 🔬 How I Am Using This Course
+## 💡 My Key Takeaways
 
-I am not using this course only to complete the required content.
+### Cybersecurity is broader than technology
 
-I am using it to:
+One of the main things I reinforced through this course is that cybersecurity is not only about technical tools.
 
-- Revisit concepts I have previously encountered
-- Strengthen areas where my knowledge needs improvement
-- Build stronger connections between networking and cybersecurity
-- Identify concepts that require deeper practical study
-- Prepare for more advanced cybersecurity training
-- Build a foundation for SOC and defensive-security learning
+It also involves:
+
+- People
+- Processes
+- Policies
+- Risk management
+- Data protection
+- Privacy
+- Communication
+- Continuous awareness
+
+### Networking and cybersecurity are closely connected
+
+The course reinforced the importance of networking knowledge when understanding how attacks occur and how security events can be detected and investigated.
+
+### Security requires multiple layers
+
+Protecting an organization cannot depend on a single security control.
+
+Different technologies, processes, policies, and security practices work together to reduce risk.
+
+### Cybersecurity requires continuous learning
+
+Threats and attack techniques continue to evolve, which means cybersecurity professionals need to keep learning and developing their skills.
+
+---
+
+## 🛠️ Skills Strengthened
+
+| Skill Area | Development |
+|---|---|
+| Cybersecurity Fundamentals | ✅ Strengthened |
+| Threat Awareness | ✅ Strengthened |
+| Understanding Vulnerabilities | ✅ Strengthened |
+| Data Protection | ✅ Strengthened |
+| Privacy & Security | ✅ Strengthened |
+| Network Security Concepts | ✅ Strengthened |
+| Organizational Security | ✅ Strengthened |
+| Cybersecurity Career Awareness | ✅ Strengthened |
+
+---
+
+## 📈 Achievement
+
+Completing this course gave me:
+
+- ✅ A Cisco Networking Academy **course completion certificate**
+- ✅ An **overall course badge**
+- ✅ Individual **module badges**
+- ✅ Reinforced cybersecurity fundamentals
+- ✅ A stronger foundation for further networking and cybersecurity training
+
+The certificate and badges represent completion of the learning program, while the documentation in this repository records what I learned and how I am applying that knowledge to my broader development.
 
 ---
 
 ## 📝 Documentation Approach
 
-Each module is documented separately based on what I learned and understood.
+I am documenting each module separately to capture not only what the course covered, but also what I personally understood and took away from the learning experience.
 
-For every module, I aim to capture:
+Each module documentation focuses on:
 
-**Concepts → Understanding → Practical Relevance → Key Takeaways → Areas for Improvement → Next Steps**
+**Concepts → Understanding → Practical Relevance → Key Takeaways → Reflection → Next Steps**
 
-Where appropriate, I will also document:
+The detailed module write-ups can be accessed below:
 
-- Important terminology
-- Technical examples
-- Practical observations
-- Questions raised during learning
-- Connections to previous knowledge
-- Screenshots or supporting evidence
-- Additional research
-- Personal reflections
-
----
-
-## 📈 Course Progress
-
-| Course | Platform | Status |
-|---|---|---|
-| Introduction to Cybersecurity | Cisco Networking Academy | Completed |
-
-As I complete each module, I will update this section and the individual module documentation.
-
----
-
-## 💡 Key Learning Takeaways
-
-My main goal throughout this course is to move beyond simply knowing cybersecurity terminology.
-
-I want to understand:
-
-> **What is the concept?**
->
-> **Why is it important?**
->
-> **How does it work?**
->
-> **What can go wrong?**
->
-> **How could an attacker exploit it?**
->
-> **How can it be detected?**
->
-> **How can it be protected?**
->
-> **How does it relate to the work of a cybersecurity analyst?**
-
-This approach helps me turn foundational knowledge into a stronger practical understanding.
+| Module | Documentation |
+|---|---|
+| Module 01 | [Cybersecurity Foundations](./module-01-cybersecurity-foundations.md) |
+| Module 02 | [Attacks, Concepts & Techniques](./module-02-attacks-concepts-techniques.md) |
+| Module 03 | [Data & Privacy](./module-03-data-and-privacy.md) |
+| Module 04 | [Protecting the Organization](./module-04-protecting-the-organization.md) |
+| Module 05 | [Cybersecurity Careers](./module-05-cybersecurity-careers.md) |
 
 ---
 
 ## 🚀 What Comes Next
 
-After strengthening my cybersecurity fundamentals, I will continue progressing through the **Junior Cybersecurity Analyst** learning path and complement the Cisco training with hands-on practice through platforms such as **TryHackMe**.
+With **Introduction to Cybersecurity** completed, I am moving on to **Networking Basics** on Cisco Networking Academy.
 
-The longer-term areas I want to build toward include:
+This is an important next step because I want to strengthen the networking foundation that supports many areas of cybersecurity.
 
+My longer-term progression is focused on building toward practical skills in areas such as:
+
+- Networking
+- Network security
 - Security monitoring
 - SOC operations
-- SIEM
-- Log analysis
-- Alert triage
 - Threat detection
 - Incident response
-- Network security
 - Defensive security
+
+I will continue combining structured learning through Cisco Networking Academy with hands-on practice through **TryHackMe** and future cybersecurity labs and projects.
 
 ---
 
-## ✅ Course Status
+## 🧭 My Learning Progression
+
+My current learning journey is developing progressively:
+
+**Cybersecurity Fundamentals ✅ → Networking Basics 🔄 → Junior Cybersecurity Analyst Development → Practical SOC & Defensive Security Skills**
+
+Each stage is intended to build on the knowledge developed in the previous stage.
+
+---
+
+## 🔗 Next Course
+
+### Networking Basics
 
 **Platform:** [Cisco Networking Academy](https://www.netacad.com/)
 
-**Course:** Introduction to Cybersecurity
+**Status:** 🔄 Starting Next
 
-**Status:** Completed
+The next stage of my Cisco learning journey will focus on strengthening my understanding of networking fundamentals and building a stronger technical foundation for cybersecurity.
 
-**Career Direction:** Junior Cybersecurity Analyst / SOC & Defensive Security
+---
+
+## 🔗 Learning Platform
+
+- [Cisco Networking Academy](https://www.netacad.com/)
 
 ---
 
@@ -226,3 +277,9 @@ The longer-term areas I want to build toward include:
 
 - [Cisco Networking Academy](https://www.netacad.com/)
 - [Cisco Skills for All](https://skillsforall.com/)
+
+---
+
+**Course Status:** ✅ Completed
+
+**Career Direction:** Junior Cybersecurity Analyst / SOC & Defensive Security
